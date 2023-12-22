@@ -5,6 +5,7 @@
 4 темы, которые будут рассмотрены:
 * Моделирование равномерного распределения
 * Моделирование нормального (Гауссовского) распределения
+* Моделирование распределения случайной величины по нормальному закону с параметрами [0;σ], σ=6
 * Моделирование нормального распределения с заданной плотностью.
 * Моделирование распределения Хи-квадрат
   
@@ -62,7 +63,21 @@
 
 ![image](https://github.com/MyNameIsVoo/UniformNormalDistribution_WinForms_Cpp/assets/95473945/cbb2964e-bfa5-4db8-9ac4-01e65ace7818)
 
-## **4) Моделирование распределения Хи-квадрат**
+## **4) Моделирование распределения с заданной плотностью**
+
+Необходимо получить N реализаций по закону распределения:
+
+![image](https://github.com/MyNameIsVoo/UniformNormalDistribution_WinForms_Cpp/assets/95473945/f36f3f10-3217-45c3-b6cd-f8b57027dc72)
+
+1) Количество моделируемых значений N=100:
+
+![image](https://github.com/MyNameIsVoo/UniformNormalDistribution_WinForms_Cpp/assets/95473945/8a69cd85-ea27-4beb-a9c5-13867654a8ed)
+
+![image](https://github.com/MyNameIsVoo/UniformNormalDistribution_WinForms_Cpp/assets/95473945/0fe38d6d-409f-4e96-bd8f-fef24c030348)
+
+![image](https://github.com/MyNameIsVoo/UniformNormalDistribution_WinForms_Cpp/assets/95473945/9b156cd2-4a31-4c3d-a62e-c5dfeb548325)
+
+## **5) Моделирование распределения Хи-квадрат**
 
 ![image](https://github.com/MyNameIsVoo/UniformNormalDistribution_WinForms_Cpp/assets/95473945/3db362a9-00c4-4526-90b7-2c5689a0de00)
 
